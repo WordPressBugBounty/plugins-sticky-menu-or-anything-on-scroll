@@ -7,7 +7,7 @@ Author: WebFactory Ltd
 Author URI: https://www.webfactoryltd.com/
 Version: 2.34
 Requires at least: 3.6
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.2
 License: GPLv2 or later
 Text Domain: sticky-menu-or-anything-on-scroll

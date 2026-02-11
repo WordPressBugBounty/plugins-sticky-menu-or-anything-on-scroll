@@ -3,7 +3,7 @@ Contributors: WebFactory
 Tags: sticky header, sticky menu, sticky, sticky widget, floating menu
 Plugin URI: https://wpsticky.com/
 Requires at least: 3.6
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 2.34
 Requires PHP: 5.2
 License: GPLv2 or later
