@@ -98,9 +98,9 @@ jQuery(function ($) {
     closeOnEscape: true,
   });
 
-  // show upsell popup every 4 months
+  // show upsell popup every 3 months
   if (window.localStorage.getItem('sticky_upsell_timestamp') === null ||
-      (new Date().getTime() / 1000 - window.localStorage.getItem('sticky_upsell_timestamp')) > (86400 * 120)) {
+      (new Date().getTime() / 1000 - window.localStorage.getItem('sticky_upsell_timestamp')) > (86400 * 90)) {
     window.localStorage.setItem('sticky_upsell_timestamp', Math.round(new Date().getTime() / 1000));
 
     $('.button-buy').each(function(ind, el) {

@@ -4,7 +4,7 @@ Tags: sticky header, sticky menu, sticky, sticky widget, floating menu
 Plugin URI: https://wpsticky.com/
 Requires at least: 3.6
 Tested up to: 7.0
-Stable tag: 2.35
+Stable tag: 2.36
 Requires PHP: 5.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -102,6 +102,10 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 
 
 == Changelog ==
+= 2.36 =
+* 2026-07-25
+* minor code fixes
+
 = 2.35 =
 * 2026-04-15
 * minor code fixes
